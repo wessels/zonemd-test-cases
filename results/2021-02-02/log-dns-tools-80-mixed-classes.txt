@@ -1,0 +1,6 @@
+[dns-tools] 2021/02/02 15:48:39 Zone must be valid before 2021-02-02 15:48:39.980635904 -0800 PST m=+0.001381225 to succeed
+[dns-tools] 2021/02/02 15:48:39 Zone parsed is example.
+[dns-tools] 2021/02/02 15:48:39 Zone Signature: could not find enough dnskeys
+[dns-tools] 2021/02/02 15:48:39 Zone Digest: Verified Successfully.
+
+dns-tools.sh exited with status 0
