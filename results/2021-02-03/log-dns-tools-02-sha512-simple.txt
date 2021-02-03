@@ -1,0 +1,7 @@
+Validating Scheme 1, HashAlg 2... ok
+[dns-tools] 2021/02/02 16:31:46 Zone must be valid before 2021-02-02 16:31:46.820945391 -0800 PST m=+0.001492417 to succeed
+[dns-tools] 2021/02/02 16:31:46 Zone parsed is example.
+[dns-tools] 2021/02/02 16:31:46 Zone Signature: could not find enough dnskeys
+[dns-tools] 2021/02/02 16:31:46 Zone Digest: Verified Successfully.
+
+dns-tools.sh exited with status 0
