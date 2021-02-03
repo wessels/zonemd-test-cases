@@ -1,4 +1,4 @@
 Zone digest matched the zone content
 Zone is verified and complete
 
-ldns-verifyzone.sh exited with status 0
+ldns-verifyzone exited with status 0

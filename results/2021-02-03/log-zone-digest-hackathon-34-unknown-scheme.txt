@@ -7,4 +7,4 @@ Traceback (most recent call last):
     zonemd.digest = original_digests[zonemd.algorithm]
 KeyError: 1
 
-zone-digest-hackathon.sh exited with status 1
+zone-digest-hackathon exited with status 1
